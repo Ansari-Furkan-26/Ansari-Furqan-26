@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Furkan Ansari (@Ansari-Furkan-26)
+- 👋 Hi, I’m Furqan Ansari (@Ansari-Furqan-26)
 - 👀 I’m passionate about Information Technology, with a strong focus on Front-end Development and UI/UX Design.
 - 🌱 Currently pursuing a B.Sc. in Information Technology at AIKTC, where I’m honing my skills in building engaging and user-friendly web applications.
 - 💞️ I’m open to collaborations on projects that involve web development or UI/UX design.
